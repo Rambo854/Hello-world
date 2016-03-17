@@ -1,3 +1,3 @@
 # Hello-world
 
-Hi Humans, my nam is cosi
+Hi Humans, my name is cosi
